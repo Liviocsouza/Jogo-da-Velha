@@ -32,3 +32,9 @@ Criação da arquitetura da API de um jogo da velha feito em Node e Express.
  -  Deletar usuario cadastro
      - Exemplo de envio json: {"Id":123, "Nome": "livio", "Senha":"das1d23"}
      - Exceção: Usuario não cadastrado
+     
+**POST/Logout**
+ - Faz o logout do sistema
+  - Exemplo de envio json: {"Id":123 , "Nome": "livio", "Senha":"das1d23"}
+  - 
+  
